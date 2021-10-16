@@ -108,6 +108,8 @@
 				<key>layout-id</key>
 				<data>CwAAAA==</data>
 			</dict>
+			<key>PciRoot(0x0)/Pci(0x1,0x0)/Pci(0x0,0x0)</key>
+			<integer>128</integer>
 		</dict>
 		<key>Delete</key>
 		<dict/>
